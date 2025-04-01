@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Awesome website
+title: InteropCare
 
 # Your name to show in the footer
-author: Open Source
+author: Raj M
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,15 +52,15 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: rajM
+  #facebook: rajM
   github: rajM
-  twitter: rajM
-  patreon: RajM
-  youtube: "@rajM"
-  whatsapp: 432
-#  medium: yourname
+  twitter: mehrar
+  #patreon: RajM
+  youtube: "@rmehragm"
+  #whatsapp: 432
+  medium: rajme
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: rajM
+linkedin: rajmehra
 #  xing: yourname
 #  stackoverflow: "3943160/rajM"
 #  snapchat: deanat78
@@ -95,14 +95,14 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "fitfitlife.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
