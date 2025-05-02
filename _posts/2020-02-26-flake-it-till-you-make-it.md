@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Navigating the Edge: Thriving Beyond Your #Comfort #Zone
+title: Navigating the Edge: Thriving Beyond Your Comfort Zone
 subtitle: Excerpt from Leadership by Raj Mehra
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [ComfortZone, Leadership]
+tags: [book, test]
 author: Raj Mehra
 ---
 
