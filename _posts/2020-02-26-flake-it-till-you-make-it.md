@@ -1,18 +1,41 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Navigating the Edge: Thriving Beyond Your #Comfort #Zone
+subtitle: Excerpt from Leadership by Raj Mehra
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [ComfortZone, Leadership]
+author: Raj Mehra
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+In the fast-paced world of engineering and technology, continuously challenging oneself is not just a choice but a necessity. Continuous and iterative practice of your principles makes risk-taking natural, builds character, and sets you apart from others. Exposing oneself to challenging situations, riddled with adversity, builds identity and garners influence amongst peers.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Consider the squirrel foraging for food at the edge of a brittle branch. This small creature engages in a cost-benefit analysis where the benefit of acquiring food comes at the risk of falling. Similarly, we too must understand the significance of practice taking risk.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Key is deliberate practice with calculated risk.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Why is this important?
+Simple! By willingly exposing yourself to challenging situations, you become more accustomed to the rigors associated with difficult environments. This adaptation allows you to pilot through the chaos of a high-intensity work setting while continually producing high-quality work.
+
+Can you control how you expose yourself to challenging situations?
+Absolutely! However, only you can judge the boundaries of your comfort zone and determine how to methodically push beyond them. You must constantly expand your limits at whatever rate you can sustain, much like how the Magnificent Seven companies innovate to meet and exceed their customers’ expectations quarter over quarter, month over month.
+
+Embracing Longevity, Disruption, and Learning from Failures
+Staying for Longevity: Remaining with a company or organization for an extended period allows you to deeply understand its culture, systems, and people. This stability can provide a strong foundation for personal and professional growth, enabling you to master your craft and build lasting relationships.
+Stepping Out for Disruption: Sometimes, the greatest growth comes from taking the leap into a new environment. Moving to a different company or organization can push you out of your comfort zone, forcing you to adapt, learn, and innovate. This disruption can be the catalyst for significant personal and professional development.
+Learning from Failures: Failures in one organization are not setbacks but stepping stones to success. Each failure teaches invaluable lessons, shaping your future by building resilience and refining your approach. You never know, but your strongest leadership story might come from your worst failure. By embracing and analyzing your failures, you not only grow but also set a foundation for your best future in another organization.
+Why is this important?
+Simple! By willingly exposing yourself to challenging situations, you become more accustomed to the rigors associated with difficult environments. This adaptation allows you to pilot through the chaos of a high-intensity work setting while continually producing high-quality work.
+
+Can you control how you expose yourself to challenging situations?
+Absolutely! However, only you can judge the boundaries of your comfort zone and determine how to methodically push beyond them. You must constantly expand your limits, much like how MAANG companies innovate to meet and exceed their customers’ expectations quarter over quarter, month over month, sprint over sprint.
+
+Strategies for Improving Your Ability to Face High-Risk Situations
+Observe Risk-Takers: Watch how others handle challenging situations while minimizing comparisons between yourself and them.
+Know Yourself: Deeply understand your identity, aspirations, and how you respond to adversity.
+Develop Your North Star: Establish a guiding light that helps you navigate through high-risk scenarios, allowing you to stay focused and resilient.
+A Good Read
+For those interested in understanding how to navigate change and the discomfort it brings, I highly recommend reading “Who Moved My Cheese?” by Spencer Johnson. This insightful book offers valuable lessons on adapting to change, embracing uncertainty, and thriving in dynamic environments.
+
+In conclusion, deliberately pushing yourself out of your comfort zone is not just about personal growth — it’s about consistently delivering excellence in your professional life. As you embrace and manage risks, you will develop the resilience and skills necessary to thrive in the ever-evolving landscape be it engineering or technology.
