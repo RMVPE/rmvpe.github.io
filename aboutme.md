@@ -4,18 +4,24 @@ title: About me
 subtitle: Know more about me
 ---
 
-My name is Raj Mehra. I enjoy doing the following:
-
-- I love playing cricket.
-- I love traveling.
+I’m Raj Mehra — a lifelong learner, global traveler, and passionate cricketer who’s been playing professionally in Kansas City leagues for over 20 years. I love exploring new cultures, meeting new people, and staying active on and off the field. 
 
 
 
 ### My professional story
 
-Transformational Technology Leader and results-driven change agent with 25+ years of experience driving innovation in HealthTech and enterprise SaaS. Passionate about driving automation, DevSecOps maturity, and establishing compliance-first engineering cultures. Holder of 14 patents with proven success in:
-● **Scaling Platforms**: Architected secured multi-tenant SaaS solutions processing 10M+ transactions/week.
-● **Modernizing Legacy Systems**: Migrated monolithic apps to cloud-native (AWS/ECS), cutting costs 30%.
-● **Building Elite Teams**: Scaled 100+ engineer orgs across US, India, and Europe with cross-functional, distributed team leadership.
-● **Business-Aligned Tech**: Drove multi-million dollar growth through AI and cloud-first strategies.
-● **Vision & roadmap**: Collaborated with C-suite and product leadership to drive revenue growth through strategic long-term planning. [my LinkedIn Profile](https://www.linkedin.com/in/rajmehra/) and you can learn **more** about me.
+Professionally, I’m a transformational technology leader and results-driven change agent with 25+ years of experience delivering innovation in HealthTech and enterprise SaaS. I’m passionate about automation, DevSecOps maturity, and building compliance-first engineering cultures that scale.
+
+I'm a named inventor on 14 patents and have a proven track record of success in:
+
+**Scaling Platforms**: Architected secure, multi-tenant SaaS solutions processing over 10M transactions per week
+
+**Modernizing Legacy Systems**: Led cloud-native migrations (AWS/ECS), reducing costs by 30%
+
+**Building Elite Teams**: Scaled engineering orgs of 100+ across the US, India, and Europe
+
+**Aligning Tech with Business**: Delivered multi-million dollar growth through AI and cloud-first initiatives
+
+**Strategic Vision**: Partnered with C-suite and product leaders to drive long-term roadmaps and growth
+
+Let’s connect—here’s [my LinkedIn Profile](https://www.linkedin.com/in/rajmehra/) where you can learn more about my work and interests.
