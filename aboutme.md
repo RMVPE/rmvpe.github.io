@@ -5,7 +5,7 @@ subtitle: Know more about me
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
-<img src="/assets/img/thumb.png" alt="Raj Mehra" class="top-right-image" />
+<img src="/assets/img/self.jpg" alt="Raj Mehra" class="top-right-image" />
 
 
 
