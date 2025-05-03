@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Know more about me
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/self.jpg
 share-img: /assets/img/path.jpg
 ---
 <img src="/assets/img/self.jpg" alt="Raj Mehra" class="top-right-image" />
