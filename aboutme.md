@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
+![Sample Image](./assets/img/thumb.png)
 A lifelong learner, global traveler, and passionate cricketer with over 20 years of experience playing in Kansas City’s professional leagues. Always exploring new cultures, building connections, and staying active—on and off the field.. 
 
 
