@@ -5,8 +5,7 @@ subtitle: Know more about me
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
-
-<img src="./assets/img/thumb.png" alt="Raj Mehra" style="float: right; width: 200px; margin: 0 0 1em 1em;" />
+<img src="./assets/img/thumb.pn" alt="Raj Mehra" style="float: right; width: 200px; margin: 0 0 1em 1em;" />
 
 A lifelong learner, global traveler, and passionate cricketer with over 20 years of experience playing in Kansas City’s professional leagues. Always exploring new cultures, building connections, and staying active—on and off the field.. 
 
