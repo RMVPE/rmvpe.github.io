@@ -11,8 +11,11 @@ author: Raj Mehra
 
 In the fast-paced world of engineering and technology, continuously challenging oneself is not just a choice but a necessity. Continuous and iterative practice of your principles makes risk-taking natural, builds character, and sets you apart from others. Exposing oneself to challenging situations, riddled with adversity, builds identity and garners influence amongst peers.
 
+<img src="/assets/img/Squirrel.jpg" alt="Squirrel" style="float: right; width: 200px; margin: 0 0 1em 1em;" />
+
 Consider the squirrel foraging for food at the edge of a brittle branch. This small creature engages in a cost-benefit analysis where the benefit of acquiring food comes at the risk of falling. Similarly, we too must understand the significance of practice taking risk.
-![Squirrel](/assets/img/Squirrel.jpg)
+
+<!-- ![Squirrel](/assets/img/Squirrel.jpg) -->
 
 {: .box-note}
 Key is deliberate practice with calculated risk.
