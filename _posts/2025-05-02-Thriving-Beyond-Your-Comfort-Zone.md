@@ -17,6 +17,7 @@ Consider the squirrel foraging for food at the edge of a brittle branch. This sm
 
 <!-- ![Squirrel](/assets/img/Squirrel.jpg) -->
 
+
 {: .box-note}
 Key is deliberate practice with calculated risk.
 
