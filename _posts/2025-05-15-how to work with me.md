@@ -2,9 +2,9 @@
 layout: post
 title: How to Work with Me
 subtitle: Excerpt from Leadership by Raj Mehra
-cover-img: /assets/img/path.png
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/workwithmethumb.png
-share-img: /assets/img/path.png
+share-img: /assets/img/path.jpg
 tags: [leadership, workwithme comfortzone]
 author: Raj Mehra
 ---
