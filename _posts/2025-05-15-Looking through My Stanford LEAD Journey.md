@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Navigating the Edge Thriving Beyond Your Comfort Zone
+title: Looking through My Stanford LEAD Journey
 subtitle: Excerpt from Leadership by Raj Mehra
 cover-img: /assets/img/Lead.jpg
 thumbnail-img: /assets/img/StanfordLead.jpg
 share-img: /assets/img/Lead.jpg
-tags: [leadership, comfortzone]
+tags: [leadership, stanford, LEAD]
 author: Raj Mehra
 ---
 Each of us, as leaders, at some point in our careers have had the desire to rejuvenate, rekindle or reinvent an important aspect about how we want to shape and influence our future to either suit the demands of work or personal interests/needs. I experienced the same thought process, and given my
