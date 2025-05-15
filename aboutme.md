@@ -17,7 +17,7 @@ A lifelong learner, global traveler, and passionate cricketer with over 20 years
 
 Professionally, I’m a transformational technology leader and results-driven change agent with over 25 years of experience delivering innovation across HealthTech and enterprise SaaS. I’m passionate about automation, DevSecOps maturity, and building scalable, compliance-first engineering cultures that drive real impact.
 
-A named inventor on 14 patents, I bring a proven track record of success in:
+A named inventor on 16 patents, I bring a proven track record of success in:
 
 * **Scaling Platforms**: Architected secure, multi-tenant SaaS solutions processing over 10M transactions per week
 
