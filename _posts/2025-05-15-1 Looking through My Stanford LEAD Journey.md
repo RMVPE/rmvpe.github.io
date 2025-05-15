@@ -130,8 +130,13 @@ The program concluded at the Stanford GSB campus with a week long insightful, le
 As the leader, we're all faced with continuous challenges that can either slow down, pause or at times even bring a halt to the engineering progress. Leader's everyday challenge each other to create an environment that helps “create and progress efficiencies & qualities in innovation” and that too with sustained momentum. The key to these challenges often lies in turning the disruptions into opportunities, which must be reviewed with both cost-benefit and feasibility perspectives. As a leader of an organization where we constantly produce leading-edge technologies to help drive the healthcare interoperability, I am always on the lookout for ways to improve my team's efficiencies and prevent conflict. In my mind, it’s more than a collection of tools, techniques or methodologies that are required to maintain efficiencies. With LEAD, I feel better equipped to deal with such challenges and have already started applying what I've learned and seeing the benefits. From such experiences, I'm happy to be a LEADer and Stanford Alumni Association Affiliate!
 
 ![Stanford LEAD Certificate](/assets/img/SLCert.jpg)
+
 ![Stanford GSB -"Power Session"](/assets/img/SLPS.jpg)
-![Stanford GSB -"Me2We Reception"](/assets/img/Me2We.jpg)
+
+![Stanford GSB -"Me2We Reception"](/assets/img/SLMe2We.jpg)
+
 ![Stanford GSB - "Design Session Workshop with wine"](/assets/img/SLDesign.jpg)
+
 ![Stanford GSB - "Monument to Change as it Changes"](/assets/img/SLChange.jpg)
+
 ![Stanford GSB -"Knight Management Center"](/assets/img/SLKC.jpg)
