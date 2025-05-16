@@ -22,9 +22,9 @@ author: Raj M
 navbar-links:
   My Hub:
     - About Me: "aboutme"
-    - My Blogs: "blog"
-    - My Projects: "aboutme"
-    - My Patents: "aboutme"
+    - Blogs: "blog"
+    - Projects: "aboutme"
+    - Patents: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
